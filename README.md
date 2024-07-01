@@ -1,9 +1,24 @@
-<p align="left">Hello, I'm Samantha!</p>
+<p align="left">⭐Hello, I'm Samantha!</p>
 
 ###
 
-<p align="left">I am currently learning to code and want to pursue aerospace engineering as a future career!</p>
+<p align="left">💗I am currently learning to code, but more specifically HTML and CSS.</p>
 
+###
+
+<p align="left">🎇Future Goals: I hope pursue aerospace engineering.</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
 - 📫 How to reach me **samanthasolorzano48@gmail.com**
   
 ###
