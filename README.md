@@ -9,16 +9,6 @@
 <p align="left">🎇Future Goals: I hope pursue aerospace engineering.</p>
 
 ###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
 - 📫 How to reach me **samanthasolorzano48@gmail.com**
   
 ###
