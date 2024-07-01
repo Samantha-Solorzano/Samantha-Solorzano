@@ -4,6 +4,8 @@
 
 <p align="left">I am currently learning to code and want to pursue aerospace engineering as a future career!</p>
 
+- 📫 How to reach me **samanthasolorzano48@gmail.com**
+  
 ###
 
 <div align="center">
@@ -12,7 +14,6 @@
 
 ###
 
-- 📫 How to reach me **samanthasolorzano48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
