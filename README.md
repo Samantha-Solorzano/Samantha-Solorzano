@@ -1,4 +1,7 @@
-<p align="left">⭐Hello, I'm Samantha!</p>
+<h1 align="center">Hello⭐, I'm Samantha!</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ###
 
